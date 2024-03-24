@@ -8,6 +8,7 @@ public class BankUser {
     int creditScore;
     double salary;
 
+
     void giveLoan() {
         System.out.println("Can get a Loan");
     }

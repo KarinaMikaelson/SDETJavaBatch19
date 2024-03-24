@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task1 {
+public class E6String {
     public static void main(String[] args) {
 
         String st ="kitchen";
@@ -9,3 +9,4 @@ public class Task1 {
         System.out.println(st.equalsIgnoreCase("Kitchen"));
     }
 }
+

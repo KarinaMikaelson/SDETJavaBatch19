@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task1_1 {
+public class Task_1_1 {
     public static void main(String[] args) {
 
         String userName = "Admin";

@@ -11,7 +11,7 @@ Store username, password and confirm password from a user and check following re
 Only after all requirements met - message
 "Your username and password has been created"
  */
-public class Task1 {
+public class Task_1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

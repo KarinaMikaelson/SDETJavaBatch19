@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task2middleIndex {
+public class Task_2_middleIndex {
     /*
     1. Create a String and if the String is not empty perform the following:
        • if the String has an odd number of characters and has 3 or more characters,
