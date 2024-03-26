@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task_5_1Substring {
+public class Task5n1Substring {
     /*
     Write a program that reads two people's first names and if they expecting boy or girl?
     Based on the input suggests a name for a baby:

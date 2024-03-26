@@ -6,3 +6,21 @@ String Class:
 What are Methods? - behaviors/actions
 What are Objects?
 What are Atributes?
+
+
+
+Mrthods:
+- length
+- is.Empty
+- toUpperCase
+- toLowerCase
+- trim
+- startsWith
+- endWith - // use boolean to check
+- equals
+- equalsIgnoreCase
+- charAt
+- indexOf
+- substring
+- replace
+- charAt

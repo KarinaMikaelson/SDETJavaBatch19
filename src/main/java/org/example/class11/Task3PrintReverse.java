@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task_3_PrintReverse {
+public class Task3PrintReverse {
     /*
      Create a String and print it in reverse order (Sunday - yadnuS).
      */

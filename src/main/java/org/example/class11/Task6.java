@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task_6 {
+public class Task6 {
     /*
     Create a String that will hold a sentence.
     Write a program to get a new String without any spaces.

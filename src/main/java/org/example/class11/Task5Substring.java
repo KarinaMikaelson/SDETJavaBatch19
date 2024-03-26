@@ -2,7 +2,7 @@ package org.example.class11;
 
 import java.util.Scanner;
 
-public class Task_5_Substring {
+public class Task5Substring {
     /*
     Write a program that reads two people's first names and if they expecting boy or girl?
     Based on the input suggests a name for a baby:

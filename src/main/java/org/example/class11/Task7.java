@@ -1,6 +1,6 @@
 package org.example.class11;
 
-public class Task_7 {
+public class Task7 {
     /*
     Create a String that should be combination of letters, numbers and special characters.
     Find out how many Alphabets(abd AZ)
