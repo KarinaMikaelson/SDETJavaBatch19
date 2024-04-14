@@ -3,12 +3,16 @@ package org.example.class19;
 Overriding method
  */
 public class Animal {
+    public static void main(String[] args) {
+    }
     void sleep(){
         System.out.println("Animal sleep");
     }
     void eat(){
         System.out.println("Animals eat");
     }
+
+
 }
 class Dog extends Animal{
     @Override
