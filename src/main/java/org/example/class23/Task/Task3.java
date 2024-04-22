@@ -11,9 +11,13 @@ public class Task3 {
         drinks.add("Cola");
         drinks.add("Sprite");
         drinks.add("Fanta");
+        drinks.add("Sod");
         drinks.add("Red Bull");
+        drinks.replaceAll(x -> x.contains("a") || x.contains("e") ? "water":x);
+        System.out.println(drinks);
+        /*
         for(int i = 0; i < drinks.size(); i++){
-            String drink = drinks.get(i);
+        String drink = drinks.get(i);
             if(drink.contains("a") || drink.contains("e")){
                 drinks.set(i,"water");
             }
@@ -21,5 +25,7 @@ public class Task3 {
         for(String drink:drinks){
             System.out.println(drink);
         }
+         */
+
     }
 }

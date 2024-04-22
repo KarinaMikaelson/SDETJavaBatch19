@@ -11,14 +11,15 @@ public class Task2 {
         cars.add("Porsche");
         cars.add("Ford");
         cars.add("BMW");
+        cars.forEach(x -> System.out.println(x)); // Method #1
+        cars.forEach(System.out::println);  // Method #2
+        /*
         for(int i = 0; i < cars.size(); i++){
-            System.out.println(cars.get(i));
+        System.out.println(cars.get(i));
         }
         for(String car:cars){
             System.out.println(car);
         }
-
+         */
     }
-
-
 }

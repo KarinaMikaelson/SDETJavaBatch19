@@ -12,14 +12,18 @@ public class Task4 {
         words.add("Dog");
         words.add("Parrot");
         words.add("Cow");
+        words.removeIf(x -> x.endsWith("t"));
+        System.out.println(words);
+        words.forEach(x -> System.out.println(x));
+        /*
         for(int i = 0; i < words.size(); i++){
-            String word = words.get(i);
+        String word = words.get(i);
             if(word.endsWith("t")){
                 words.remove(i);
             }
         }
-        for(String word:words){
-            System.out.println(word);
-        }
+        System.out.println(words);
+         */
+
     }
 }
